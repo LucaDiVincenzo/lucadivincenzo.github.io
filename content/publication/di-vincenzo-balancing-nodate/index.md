@@ -4,7 +4,7 @@ authors:
 - Luca Di Vincenzo
 - Simone Conversano
 - Gianluca Tirozzi
-date: "-01-01"
+date: "2025-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: "2025-04-16T13:42:40.159981Z"
 publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Palgrave Handbook on the Ethics of Artificial Intelligence*"
+publication: "*The Palgrave Handbook on the Ethics of Artificial Intelligence* [Forthcoming]"
 publication_short: ""
 
 abstract: ""

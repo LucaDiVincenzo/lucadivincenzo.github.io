@@ -15,7 +15,7 @@ publishDate: "2025-04-16T13:42:40.166547Z"
 publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ethics in Artificial Intelligence: A Multidisciplinary Approach*"
+publication: "*Ethics in Artificial Intelligence: A Multidisciplinary Approach* [Forthcoming]"
 publication_short: ""
 
 abstract: ""
