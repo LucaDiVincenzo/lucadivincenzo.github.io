@@ -2,7 +2,7 @@
 title: "The Beastly Cocktail Party: Are Multimodal Shifts Evidence of Non-Human Theory of Mind?"
 authors:
 - Luca Di Vincenzo
-date: "-01-01"
+date: "2025-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
