@@ -30,7 +30,7 @@ featured: false
 links:
 - name: "URL"
   url: "https://doi.org/10.1163/14219980-950101AB"
-url_pdf: ""
+url_pdf: "https://github.com/LucaDiVincenzo/lucadivincenzo.github.io/blob/main/content/publication/di-vincenzo-assessing-2024/poster_tom_wellbeing.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
