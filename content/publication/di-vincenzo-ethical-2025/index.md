@@ -3,7 +3,7 @@ title: "Ethical and Operational Advances in Military AI: The Role of Neurosymbol
 authors:
 - Luca Di Vincenzo
 - Simone Conversano
-date: "2025-01-01"
+date: "2025-04-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,8 +29,6 @@ tags:
 featured: true
 
 links:
-- name: ""
-  url: ""
 url_pdf: ""
 url_code: ""
 url_dataset: ""

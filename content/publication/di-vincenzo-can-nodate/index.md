@@ -3,7 +3,7 @@ title: "Can Cross-Modal Binding Scaffold Theory of Mind? Using AI as a Benchmark
 authors:
 - Luca Di Vincenzo
 - Simone Conversano
-date: "2025-01-01"
+date: "2025-02-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,8 +29,6 @@ tags:
 featured: false
 
 links:
-- name: ""
-  url: ""
 url_pdf: ""
 url_code: ""
 url_dataset: ""

@@ -4,7 +4,7 @@ authors:
 - Luca Di Vincenzo
 - Simone Conversano
 - Gianluca Tirozzi
-date: "2025-01-01"
+date: "2025-03-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,8 +30,6 @@ tags:
 featured: false
 
 links:
-- name: ""
-  url: ""
 url_pdf: ""
 url_code: ""
 url_dataset: ""
