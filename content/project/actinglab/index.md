@@ -1,13 +1,14 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Acting Lab 
+date: 2024-10-01
+external_link: ''
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Cognitive Science
+  - Acting
+  - Emotional Regulation
+  - Education
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+An experimental acting course that integrates insights from cognitive science into performative practices. The project aims to provide students with scientifically informed tools for emotional self-regulation, drawing on research in memory, attention, embodiment, and neuroplasticity.
 
 <!--more-->
