@@ -30,7 +30,7 @@ featured: false
 links:
 - name: "URL"
   url: "https://dx.doi.org/10.4000/primatologie.13512"
-url_pdf: ""
+url_pdf: "https://github.com/LucaDiVincenzo/lucadivincenzo.github.io/blob/main/content/publication/di-vincenzo-meta-representations-2022/poster_recursive_multimodal.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
