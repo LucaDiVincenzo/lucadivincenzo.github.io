@@ -2,6 +2,8 @@
 title: "Assessing the theory of mind development in nonhuman primates to improve their well-being"
 authors:
 - admin
+- Simone Pollo
+- Augusto Vitale
 date: "2024-01-01"
 doi: "10.1163/14219980-950101AB"
 
