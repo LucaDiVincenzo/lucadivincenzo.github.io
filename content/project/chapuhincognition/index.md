@@ -5,7 +5,6 @@ external_link: ''
 tags:
   - Animal Cognition
   - Primates
-  - Sapajus apella
   - Perspective Taking
   - Communication
 ---
