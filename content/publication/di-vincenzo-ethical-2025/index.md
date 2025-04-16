@@ -1,7 +1,7 @@
 ---
 title: "Ethical and Operational Advances in Military AI: The Role of Neurosymbolic and Cross-Modal Systems"
 authors:
-- Luca Di Vincenzo
+- admin
 - Simone Conversano
 date: "2025-04-01"
 doi: ""

@@ -1,7 +1,7 @@
 ---
 title: "Balancing Privacy and Security: The Role of AI in Interagency Intelligence Databases"
 authors:
-- Luca Di Vincenzo
+- admin
 - Simone Conversano
 - Gianluca Tirozzi
 date: "2025-03-01"

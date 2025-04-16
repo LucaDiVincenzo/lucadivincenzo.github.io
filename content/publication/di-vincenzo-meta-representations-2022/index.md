@@ -1,7 +1,7 @@
 ---
 title: "Meta-representations in primates: A proposal for a multimodal approach in the study of language recursiveness"
 authors:
-- Luca Di Vincenzo
+- admin
 date: "2022-01-01"
 doi: "10.4000/primatologie.13512"
 
