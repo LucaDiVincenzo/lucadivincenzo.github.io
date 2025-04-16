@@ -45,8 +45,8 @@ interests:
   - Theory of Mind
   - Rationality
   - Animal Cognition
-  - Cognitive Psychology
   - Artificial Intelligence
+  - Cognitive Psychology
 
 education:
   - area: Ph.D. in Philosophy
