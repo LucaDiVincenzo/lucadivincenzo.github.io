@@ -1,7 +1,7 @@
 ---
-title: Is Multimodal Processing Essential for Theory of Mind? Insights from Non-Human Animals and AI
+title: "Is Multimodal Processing Essential for Theory of Mind? Insights from Non-Human Animals and AI"
 
-event: 5th International Conference on the Philosophy of Mind
+event: "5th International Conference on the Philosophy of Mind"
 event_url: https://ifilosofia.up.pt/activities/5-international-conference-philosophy-mind
 
 location: University of Porto
