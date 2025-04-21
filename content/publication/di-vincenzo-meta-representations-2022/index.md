@@ -30,7 +30,7 @@ featured: false
 links:
 - name: "URL"
   url: "https://journals.openedition.org/primatologie/13512"
-url_pdf: "upload/poster_recursive_multimodal.pdf"
+url_pdf: "uploads/poster_recursive_multimodal.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
