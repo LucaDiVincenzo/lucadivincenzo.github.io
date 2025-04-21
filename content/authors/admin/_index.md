@@ -247,4 +247,4 @@ I was a visiting scholar at Texas A&M University and Brooklyn College (CUNY), wh
 
 Alongside my academic work, I serve as Chief Research Officer at bitCorp – Intelligence Creative Labs, leading R&D in cybersecurity, AI, and cognitive technologies. I am also pursuing a BA in Psychology at the University of Perugia, further grounding my research in empirical methodology.
 
-My work connects philosophy, cognitive science, and technology. I regularly contribute to interdisciplinary research projects, public speaking events, and AI innovation initiatives.
+Beyond my academic work, I’m also a certified whale watching guide, a dog training educator, and I teach evidence-based acting, combining cognitive science with performative practice.
