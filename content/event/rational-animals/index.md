@@ -30,11 +30,11 @@ abstract: |
 
   Ultimately, this research argues for a more evolutionarily grounded, multimodally-informed understanding of cognition—one that bridges philosophical theory and empirical research across species.
 
-date: '2024-09-02T00:00:00Z'
-date_end: '2024-09-03T00:00:00Z'
+date: '2025-06-2T00:00:00Z'
+date_end: '2025-06-04T00:00:00Z'
 all_day: true
 
-publishDate: '2024-08-01T00:00:00Z'
+publishDate: '2025-04-22T00:00:00Z'
 
 authors:
   - admin
