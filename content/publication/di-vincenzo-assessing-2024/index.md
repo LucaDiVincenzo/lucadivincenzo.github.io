@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "URL"
   url: "https://brill.com/view/journals/ijfp/95/1-2/article-p1_2.xml"
-url_pdf: content/publication/di-vincenzo-assessing-2024/poster_tom_wellbeing.pdf
+url_pdf: "upload/poster_tom_wellbeing.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
