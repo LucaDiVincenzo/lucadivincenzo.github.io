@@ -36,10 +36,10 @@ profiles:
     url: https://www.instagram.com/l_divincenzo/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/luca-divincenzo/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
   - Theory of Mind
