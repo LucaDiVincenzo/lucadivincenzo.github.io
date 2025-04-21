@@ -30,14 +30,14 @@ date: '2025-06-02T00:00:00Z'
 date_end: '2025-06-04T00:00:00Z'
 all_day: true
 
-publishDate: '2025-04-22T00:00:00Z'
+publishDate: '2025-04-21T00:00:00Z'
 
 authors:
   - admin
 
 tags: []
 
-featured: false
+featured: true
 
 image:
   caption: ''
