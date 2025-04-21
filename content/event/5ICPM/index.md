@@ -24,11 +24,11 @@ abstract: |
 
   This insight has philosophical and computational implications. First, it challenges human-centric models of ToM, reinforcing the idea that mental state attribution is a gradual, distributed trait across species rather than a uniquely human faculty. Second, it provides a framework for evaluating ToM-like capacities in AI and computational models, positing that ToM is not intrinsic to language but a product of multimodal cognition. Unlike non-human animals, current AI architectures, such as large language models (LLMs), rely on unimodal processing and lack adaptive sensory integration, making them fundamentally limited in simulating genuine mind attribution. However, multimodal AI models designed to integrate and flexibly adapt across sensory modalities could approximate higher-order cognition more effectively. If ToM requires the ability to dynamically process multimodal information, then replicating this structure in AI may offer novel insights into the mechanisms underlying human mental state attribution.
 
-date: '2023-09-14T00:00:00Z'
-date_end: '2023-09-16T00:00:00Z'
+date: '2025-05-15T00:00:00Z'
+date_end: '2025-05-21T00:00:00Z'
 all_day: true
 
-publishDate: '2023-09-01T00:00:00Z'
+publishDate: '2025-04-22T00:00:00Z'
 
 authors:
   - admin
