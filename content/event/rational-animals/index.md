@@ -1,7 +1,7 @@
 ---
-title: Beyond Language: Multimodal Insights into Theory of Mind and Rationality Across Species
+title: "Beyond Language: Multimodal Insights into Theory of Mind and Rationality Across Species"
 
-event: Rational Animals? Developmental, comparative, philosophical and methodological perspectives.
+event: "Rational Animals? Developmental, comparative, philosophical and methodological perspectives"
 event_url: https://ared-conference.stir.ac.uk/
 
 location: University of Stirling
