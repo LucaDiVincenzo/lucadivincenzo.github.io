@@ -30,7 +30,7 @@ featured: false
 links:
 - name: "URL"
   url: "https://journals.openedition.org/primatologie/13512"
-url_pdf: "content/publication/di-vincenzo-meta-representations-2022/poster_recursive_multimodal.pdf"
+url_pdf: "upload/poster_recursive_multimodal.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
