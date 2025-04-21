@@ -20,16 +20,13 @@ abstract: |
   
   This talk explores the empirical and philosophical implications of this shift. I present two experimental protocols based on multimodal shift—the ability to adapt communication channels in response to environmental constraints—to assess both perception attribution and false-belief understanding in non-human animals. These tasks aim to test whether subjects infer others’ perceptual or belief states under noisy conditions, addressing the challenge of dual interpretation in behavioral data.
 
-
   Preliminary findings from a pilot study with two Asian elephants suggest evidence of perception attribution. Ongoing data collection involves eight additional elephants and sixteen capuchin monkeys.
-
 
   Building on this, I propose a Multimodal Mind Theory: the idea that cross-modal binding—not language—is central to the development of ToM and rationality. This theory challenges traditional views (e.g., Davidson, Bermúdez) that position language as a necessary condition for higher cognition. I illustrate the implications through two thought experiments, which highlight how multimodal integration supports meta-cognition, rational inference, and mental state attribution.
 
-
   Ultimately, this research argues for a more evolutionarily grounded, multimodally-informed understanding of cognition—one that bridges philosophical theory and empirical research across species.
 
-date: '2025-06-2T00:00:00Z'
+date: '2025-06-02T00:00:00Z'
 date_end: '2025-06-04T00:00:00Z'
 all_day: true
 
