@@ -4,8 +4,8 @@ authors:
 - admin
 - Simone Conversano
 - Gianluca Tirozzi
-date: "2025-03-01"
-doi: ""
+date: "2026-05-01"
+doi: "10.1007/978-3-032-15112-4_10"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-16T13:42:40.159981Z"
@@ -16,8 +16,8 @@ publishDate: "2025-04-16T13:42:40.159981Z"
 publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Palgrave Handbook on the Ethics of Artificial Intelligence* [Forthcoming]"
-publication_short: ""
+publication: "In S. S. Gouveia (Ed.), *The Palgrave Handbook on the Ethics of Artificial Intelligence* (pp. 151–169). Cham: Palgrave Macmillan"
+publication_short: "*Palgrave Handbook on the Ethics of AI*"
 
 abstract: ""
 

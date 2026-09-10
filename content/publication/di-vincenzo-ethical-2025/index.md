@@ -1,10 +1,10 @@
 ---
-title: "Ethical and Operational Advances in Military AI: The Role of Neurosymbolic and Cross-Modal Systems"
+title: "Ethical and Operational Advances in Military AI: The Role of Neurosymbolic and Cross-Modal System"
 authors:
 - admin
 - Simone Conversano
-date: "2025-04-01"
-doi: ""
+date: "2026-01-01"
+doi: "10.5040/9781350543140.0020"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-16T13:42:40.166547Z"
@@ -15,8 +15,8 @@ publishDate: "2025-04-16T13:42:40.166547Z"
 publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ethics in Artificial Intelligence: A Multidisciplinary Approach* [Forthcoming]"
-publication_short: ""
+publication: "In S. S. Gouveia (Ed.), *AI Ethics Explored: A Multidisciplinary Approach* (pp. 195–218). London: Bloomsbury Academic"
+publication_short: "*AI Ethics Explored*"
 
 abstract: ""
 
