@@ -16,7 +16,7 @@ publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In S. S. Gouveia (Ed.), *AI Ethics Explored: A Multidisciplinary Approach* (pp. 195–218). London: Bloomsbury Academic"
-publication_short: "*AI Ethics Explored*"
+publication_short: ""
 
 abstract: ""
 

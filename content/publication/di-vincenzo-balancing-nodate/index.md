@@ -17,7 +17,7 @@ publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In S. S. Gouveia (Ed.), *The Palgrave Handbook on the Ethics of Artificial Intelligence* (pp. 151–169). Cham: Palgrave Macmillan"
-publication_short: "*Palgrave Handbook on the Ethics of AI*"
+publication_short: ""
 
 abstract: ""
 
