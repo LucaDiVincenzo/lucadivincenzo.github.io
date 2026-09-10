@@ -16,7 +16,7 @@ publishDate: "2025-04-16T13:42:40.172741Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Folia Primatologica*"
+publication: "*Folia Primatologica*, 95(1–2) [Conference abstract — 10th European Federation for Primatology Congress, Lausanne, 5–7 June 2024]"
 publication_short: ""
 
 abstract: ""

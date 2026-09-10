@@ -14,7 +14,7 @@ publishDate: "2025-04-16T13:42:40.179262Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revue de Primatologie*"
+publication: "*Revue de Primatologie*, 13 [Conference abstract — European Federation for Primatology Conference, Arnhem, 1–3 June 2022]"
 publication_short: ""
 
 abstract: ""
